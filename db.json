@@ -217,6 +217,14 @@
       "finish": "2024-05-16 16:00",
       "location": "Dartmoor Zoo, Sparkwell, Plymouth, Devon, PL7 5DG",
       "notes": "Website: https://www.dartmoorzoo.org.uk/"
+    },
+    {
+      "id": 21,
+      "title": "Vauxhall City Farm",
+      "start": "2024-05-21 12:00",
+      "finish": "2024-05-21 14:00",
+      "location": "Vauxhall City Farm, 165 Tyers Street, SE11 5HS",
+      "notes": "Website: https://www.vauxhallcityfarm.org/"
     }
   ]
 }
